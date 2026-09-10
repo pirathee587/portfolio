@@ -37,7 +37,7 @@ export default function Hero() {
             {/* Buttons */}
             <div className="flex flex-wrap gap-4">
               <a
-                href="mailto:piratheepan0693@gmail.com"
+                href="#contact"
                 className="btn-primary"
               >
                 Hire Me
